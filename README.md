@@ -23,3 +23,25 @@ A dependency-free tool for comparing expected deployment configuration against a
 npm test
 npm run demo
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Progress Note 1
+
+- 2025-12-22: documented service readiness, implementation progress, and release hygiene for config-drift-checker.
+- Captured validation notes for observability, operational checks, and handoff readiness.
