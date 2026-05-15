@@ -1,0 +1,13 @@
+{
+  "name": "config-drift-checker",
+  "version": "1.0.0",
+  "description": "Environment configuration drift checker for backend deployments.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/cli.js examples/expected.json examples/actual.json"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
